@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\bin\Debug\LanzarDados.exe.config
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\bin\Debug\LanzarDados.exe
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\bin\Debug\LanzarDados.pdb
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.Form1.resources
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.Properties.Resources.resources
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.exe
+C:\Users\JoséEnrique\source\repos\LanzarDados\LanzarDados\obj\Debug\LanzarDados.pdb
